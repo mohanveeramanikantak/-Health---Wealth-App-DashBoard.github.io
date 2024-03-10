@@ -1,0 +1,71 @@
+.page{
+    background-color: antiquewhite;
+}
+.header{
+    background-color:gainsboro; 
+    text-align: center;
+    box-shadow: #0000;
+
+     
+}
+h3{
+    color: black;
+    align-items: center;
+    font-family: monospace;
+    font-weight: 400;
+    font-size: 20px;
+    >span{
+        color: red;
+    }
+} 
+.nav{ 
+    margin: 0px;
+    height: 0px;
+     color:#ffffff;
+     background-color:#000000
+}
+.nav ul{ 
+    list-style-type:none;
+     margin:0px; padding:0px;
+}
+.nav ul li{ 
+    display:inline
+}
+.nav ul li a{ 
+    width:12.0%; 
+    float:left;
+    text-align:center; 
+    border-radius: 10px;
+    margin:5px 13px;
+    color:white;
+    background-color:midnightblue;
+    font-weight: 500;
+    text-decoration:none
+}
+.nav ul li a:hover{ 
+    color:black;
+    border-radius: 10px;
+    background-color:white;
+}
+.b2 ul{ list-style-type:none; margin:0px; padding:0px;}
+.b2 ul li{ display:inline;}
+.b2 ul li a{ width:14.5%; float:left; text-align:center;}
+.facebook{float:left; margin:0px 9px;}
+.facebook:hover{ background:url(../image/FaceBook_img_h.png);}
+.Whatsapp{float:left; margin:0px 8px;}
+.Whatsapp:hover{background:url(../image/WhatsApp_img_h.png);}
+.Twitter{ float:left; margin:0px 8px;}
+.Twitter:hover{background:url(../image/Twitter_img_h.png);}
+.linkedin{ float:left; margin:0px 8px;}
+.linkedin:hover{ background:url(../image/linkedin_img_h.png);}
+.YouTube{float:left; margin:0px 8px;}
+.YouTube:hover{ background:url(../image/Instragam_img_h.png);}
+.form{width:45px; text-align: center; background-color:#9999FF;}
+input{ margin-right: 120px; width:20%; height:20px;  font-family:cursive; font-weight:600;  border-bottom-style:none; margin:5px; padding:5px 10px; background-color:#999999; color:#000000;}
+label{ width:10%; float:left; padding:5px 10px;   border-radius:15px; float:left;}
+BUTTON{ float:left; color:#FFFFFF; background-color:#000000; margin:15px 270px;  border-radius:10px;}
+.Row_tab12{width:100%; float:left; height: 70px; margin:10px 0px 20px 0px;  padding:0px 0px 10px 0px; background-color:powderblue}
+.b4{width:32%; height:40px; float:left;;  margin:1% 0% 0% .3%; text-align:center; }
+.b4 ul{ list-style-type:none; margin:0px; padding:0px;}
+.b4 ul li{ display:inline;}
+.b4 ul li a{ width:14.5%; float:left; text-align:center;}
